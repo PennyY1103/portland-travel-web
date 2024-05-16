@@ -34,56 +34,56 @@ The client side implements everything users see and interact with. The Homepage 
     <td>Thank you message after successfully submitting a advising form</td>
   </tr>
   <tr>
-    <td><img src="/public/images/home3.png"></td>
-    <td><img src="/public/images/message3.png"></td>
+    <td><img src="/XSQ-frontend/public/images/home3.png"></td>
+    <td><img src="/XSQ-frontend/public/images/message3.png"></td>
   </tr>
   <tr>
     <td>VISIT - Attraction list</td>
     <td>A specific attraction</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visits4.png"></td>
-    <td><img src="/public/images/attraction2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visits4.png"></td>
+    <td><img src="/XSQ-frontend/public/images/attraction2.png"></td>
   </tr>
   <tr>
     <td>EAT - Restaurant list</td>
     <td>A specific restaurant</td>
   </tr>
   <tr>
-    <td><img src="/public/images/eats4.png"></td>
-    <td><img src="/public/images/restaurant2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eats4.png"></td>
+    <td><img src="/XSQ-frontend/public/images/restaurant2.png"></td>
   </tr>
     <tr>
     <td>Add Review</td>
     <td>Detail page after adding review</td>
   </tr>
   <tr>
-    <td><img src="/public/images/addreview2.png"></td>
-    <td><img src="/public/images/afteraddreview2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/addreview2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/afteraddreview2.png"></td>
   </tr>
   <tr>
     <td>ADVISING - Advising form</td>
     <td>Form input validation</td>
   </tr>
   <tr>
-    <td><img src="/public/images/advising3.png"></td>
-    <td><img src="/public/images/error2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/advising3.png"></td>
+    <td><img src="/XSQ-frontend/public/images/error2.png"></td>
   </tr>
   <tr>
     <td>Email received after submission</td>
     <td>Page navigation exception handling</td>
   </tr>
   <tr>
-    <td><img src="/public/images/email.png"></td>
-    <td><img src="/public/images/pagenavexception.png"></td>
+    <td><img src="/XSQ-frontend/public/images/email.png"></td>
+    <td><img src="/XSQ-frontend/public/images/pagenavexception.png"></td>
   </tr>
   <tr>
     <td>Logout confirm</td>
     <td>VISIT search exception handling</td>
   </tr>
   <tr>
-    <td><img src="/public/images/logoutconfirm.png"></td>
-    <td><img src="/public/images/listexception.png"></td>
+    <td><img src="/XSQ-frontend/public/images/logoutconfirm.png"></td>
+    <td><img src="/XSQ-frontend/public/images/listexception.png"></td>
   </tr>
  </table>
 
@@ -104,24 +104,24 @@ In the server side, the database on MongoDB Atlas uses three collections (restau
      <td>Restaurant data</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visitsdata2.png"></td>
-    <td><img src="/public/images/eatsdata2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visitsdata2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eatsdata2.png"></td>
   </tr>
   <tr>
   <td>Attraction Review data</td>
      <td>Restaurant Review data</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visitreview.png"></td>
-    <td><img src="/public/images/eatreview.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visitreview.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eatreview.png"></td>
   </tr>
   <tr>
   <td>Attraction Review data update after changing review text</td>
      <td>Restaurant Review data update after changing review text</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visitsdata3.png"></td>
-    <td><img src="/public/images/eatsdata3.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visitsdata3.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eatsdata3.png"></td>
   </tr>
  </table>
 
@@ -162,40 +162,40 @@ In the client side, the main functionality of our application is complete.
     <td>Thank you message after successfully submitting a advising form</td>
   </tr>
   <tr>
-    <td><img src="/public/images/home2.png"></td>
-    <td><img src="/public/images/message2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/home2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/message2.png"></td>
   </tr>
   <tr>
     <td>VISIT - Attraction list</td>
     <td>A specific attraction</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visits2.png"></td>
-    <td><img src="/public/images/attraction2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visits2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/attraction2.png"></td>
   </tr>
   <tr>
     <td>EAT - Restaurant list</td>
     <td>A specific restaurant</td>
   </tr>
   <tr>
-    <td><img src="/public/images/eats2.png"></td>
-    <td><img src="/public/images/restaurant2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eats2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/restaurant2.png"></td>
   </tr>
     <tr>
     <td>Add Review</td>
     <td>Detail page after adding review</td>
   </tr>
   <tr>
-    <td><img src="/public/images/addreview.png"></td>
-    <td><img src="/public/images/afteraddreview.png"></td>
+    <td><img src="/XSQ-frontend/public/images/addreview.png"></td>
+    <td><img src="/XSQ-frontend/public/images/afteraddreview.png"></td>
   </tr>
   <tr>
     <td>ADVISING - Advising form</td>
     <td>Form input validation</td>
   </tr>
   <tr>
-    <td><img src="/public/images/advising2.png"></td>
-    <td><img src="/public/images/error.png"></td>
+    <td><img src="/XSQ-frontend/public/images/advising2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/error.png"></td>
   </tr>
  </table>
 
@@ -213,8 +213,8 @@ In the server side, the mongoDB database is modified and the backend code is com
      <td>Restaurant data</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visitsdata2.png"></td>
-    <td><img src="/public/images/eatsdata2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visitsdata2.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eatsdata2.png"></td>
   </tr>
  </table>
 
@@ -248,32 +248,32 @@ In the client side, the overall structure of the website is complete.
     <td>Thank you message after successfully submitting a advising form</td>
   </tr>
   <tr>
-    <td><img src="/public/images/home.png"></td>
-    <td><img src="/public/images/message.png"></td>
+    <td><img src="/XSQ-frontend/public/images/home.png"></td>
+    <td><img src="/XSQ-frontend/public/images/message.png"></td>
   </tr>
   <tr>
     <td>VISIT - Attraction list</td>
     <td>A specific attraction</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visits.png"></td>
-    <td><img src="/public/images/visit.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visits.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visit.png"></td>
   </tr>
   <tr>
     <td>EAT - Restaurant list</td>
     <td>A specific restaurant</td>
   </tr>
   <tr>
-    <td><img src="/public/images/eats.png"></td>
-    <td><img src="/public/images/eat.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eats.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eat.png"></td>
   </tr>
   <tr>
     <td>ADVISING - Advising form</td>
     <td>Form input validation</td>
   </tr>
   <tr>
-    <td><img src="/public/images/advising.png"></td>
-    <td><img src="/public/images/error.png"></td>
+    <td><img src="/XSQ-frontend/public/images/advising.png"></td>
+    <td><img src="/XSQ-frontend/public/images/error.png"></td>
   </tr>
  </table>
 
@@ -284,8 +284,8 @@ In the client side, the overall structure of the website is complete.
      <td>Restaurant data</td>
   </tr>
   <tr>
-    <td><img src="/public/images/visitsdata.png"></td>
-    <td><img src="/public/images/eatsdata.png"></td>
+    <td><img src="/XSQ-frontend/public/images/visitsdata.png"></td>
+    <td><img src="/XSQ-frontend/public/images/eatsdata.png"></td>
   </tr>
  </table>
 
